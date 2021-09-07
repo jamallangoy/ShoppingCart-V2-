@@ -1,0 +1,44 @@
+#root {
+    text-align: center;
+    
+}
+
+
+
+
+.header {
+    grid-area: header;
+    font-family: 'Bad Script';
+    text-decoration: underline;
+    margin: 50px;
+    font-weight:bolder;
+    
+}
+.form {
+    grid-area: form;
+    font-family: 'Raleway', sans-serif;
+    margin: 50px;
+    
+}
+
+.column1,
+.column2,
+.column3 {
+    font-family: 'Raleway', sans-serif;
+    padding: 20px;
+    font-weight:bolder
+}
+
+
+
+/* .category:hover {
+    
+    background-color: limegreen;
+    
+} */
+
+
+
+
+
+
