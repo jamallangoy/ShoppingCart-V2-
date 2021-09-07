@@ -1,6 +1,6 @@
 # Shopping Cart (V2)
 
-<img src="https://github.com/jamallangoy/Tic-Tac-Toe/blob/master/ticTacToe%20(snippet).PNG?raw=true" width="400px" height="200px" />
+<img src="https://github.com/jamallangoy/ShoppingCart-V2-/blob/main/ShoppingCart(V2)%20Snippet.PNG" width="400px" height="200px" />
 
 
 ## Version 2 - Week 19: Shopping Cart (V2) React (MIT XPro, Sept 2021)
